@@ -1,0 +1,65 @@
+#Adept Trials
+#Head  = {"Name": "",  "Jobs":[]}
+Sheikh_Turban = {"Name": "Sheikh Turban", "DEF":18, "HP":20, "MP":10, "CHR":4, "VIT":5, "Conserve MP":2, "Cure Potency":5, "Gear Haste":2, "Jobs":["brd"]}
+Stout_Bonnet = {"Name": "Stout Bonnet", "DEF":27, "HP":9, "MP":9, "Enmity":-5, "Reward Recast":-15, "MND":8, "Magic Attack Bonus":8, "Magic Accuracy":8, "Skillchain Damage":4, "Regen":1, "Jobs":["bst"]}
+Genie_Tiara = {"Name": "Genie Tiara", "DEF":21, "Evasion":11, "Enfeebling Magic Skill":11, "INT":8, "Magic Accuracy":5, "FC":3, "Enfeebling Magic Duration":10, "Jobs":["blm"]}
+Onyx_Sallet = {"Name": "Onyx Sallet", "DEF":23, "Accuracy":6, "Attack":11, "DT":10, "Absorb Duration":10, "STR":6, "Store TP":5, "Greatsword Skill":5, "Skillchain Damage":2, "Jobs":["drk"]}
+Dragon_Mask1 = {"Name": "Dragon Mask +1", "DEF":24, "HP":12, "Light Elemental Resistance":12, "Dark Element Resistance":12, "BDT":-5, "MP":30, "Gear Haste":4, "PDT":-4, "Treasure Hunter":1, "Jobs":["drg"]}
+Yasha_Jinpachi1 = {"Name": "Yasha Jinpachi +1", "DEF":23, "INT":8, "Spell Interrupt Down":10, "Enmity":6, "Evasion":10, "Gear Haste":5, "Jobs":["nin"]}
+Kings_Armet = {"Name": "Kings Armet", "DEF":27, "HP":40, "VIT":11, "Light Elemental Resistance":3, "Dark Elemental Resistance":3, "Enmity":3, "Gear Haste":5, "Spell Interrupt Down":8, "Jobs":["pld"]}
+Wise_Cap1 = {"Name": "Wise Cap +1", "DEF":25, "MP":15, "Accuracy":3, "Ranged Accuracy":4, "Magic Accuracy":6, "Dagger Skill":6, "Gear Haste":5, "Block Rate":5, "Resist Status Ailments":3, "Jobs":["rdm"]}
+Hachiman_Jinpachi1 = {"Name": "Hachiman Jinpachi +1", "DEF":27, "STR":4, "Weapon Skill Accuracy":5, "Attack":10, "Zanshin":5, "Gear Haste":4, "Counter":4, "Jobs":["sam"]}
+Dragon_Cap1 = {"Name": "Dragon Cap +1", "DEF":25, "AGI":11, "Subtle Blow":10, "BDT":-6, "Enmity":2, "Treasure Hunter":1, "Dagger Skill":8, "Jobs":["thf"]}
+Unicorn_Cap1 = {"Name": "Unicorn Cap +1", "DEF":37, "HP":64, "Accuracy":7, "Gear Haste":4, "Counter":4, "Enmity":4, "Jobs":["war"]}
+ 
+#Body = {"Name": "",  "Jobs":[]}
+Sheikh_Manteel = {"Name": "Sheikh Manteel", "DEF":43, "HP":25, "MP":16, "CHR":8, "Gear Haste":3, "Song Spellcasting Time":-13, "DEX":5, "Accuracy":10, "Regen":1, "Jobs":["brd"]}
+Stout_Jacket = {"Name": "Stout Jacket", "DEF":46, "HP":22, "MP":22, "DEX":5, "VIT":5, "CHR":5, "Enmity":-3, "Cure Potency":12, "Conserve MP":10, "Pet Magic Attack Bonus":10, "Pet Magic Accuracy":10, "FC":3, "Jobs":["bst"]}
+Genie_Weskit = {"Name": "Genie Weskit", "DEF":36, "Magic Attack Bonus":7, "Elemental Magic Skill":6, "Conserve MP":8, "INT":6, "Staff Skill":15, "Gear Haste":4, "Jobs":["blm"]}
+Plastron1 = {"Name": "Plastron +1", "DEF":41, "STR":9, "Attack":18, "DT":15, "Refresh":1, "STR":3, "Conserve TP":10, "Scythe Skill":10, "Skillchain Damage":3, "Jobs":["drk"]}
+Dragon_Mail1 = {"Name": "Dragon Mail +1", "DEF":48, "HP":14, "Elemental Resistance":12, "BDT":-10, "MP":60, "STR":8, "DEX":8, "Accuracy":15, "Jobs":["drg"]}
+Yasha_Samue1 = {"Name": "Yasha Samue +1", "DEF":44, "INT":4, "Parrying Skill":4, "Spell Interrupt Down":11, "Enmity":5, "INT":8, "Ninjutsu Skill":10, "Magic Attack Bonus":8, "FC":4, "Jobs":["nin"]}
+Kings_Cuirass = {"Name": "Kings Cuirass", "DEF":50, "VIT":14, "CHR":1, "Light Elemental Resistance":3, "Dark Elemental Resistance":3, "Convert MP to HP":30, "Spell Interrupt Down":10, "FC":4, "Cure Potency Received":4, "Jobs":["pld"]}
+Chasuble1 = {"Name": "Chasuble +1", "DEF":44, "MP":25, "Accuracy":14, "Magic Accuracy":6, "Enmity":-3, "STR":10, "MND":10, "Attack":8, "Dual Wield":5, "MDT":-4, "Jobs":["rdm"]}
+Hachiman_Domaru1= {"Name": "Hachiman Domaru +1", "DEF":48, "STR":15, "Store TP":7, "Weapon Skill Accuracy":10, "Conserve TP":6, "Attack":12, "Skillchain Damage":3, "Jobs":["sam"]}
+Dragon_Harness1 = {"Name": "Dragon Harness +1", "DEF":45, "DEX":10, "AGI":10, "Attack":24, "Subtle Blow":12, "BDT":-12, "Skillchain Damage":4, "Jobs":["thf"]}
+Unicorn_Harness1 = {"Name": "Unicorn Harness +1", "DEF":59, "HP":84, "Regen":1, "Accuracy":15, "MDT":-4, "Counter":4, "Jobs":["war"]}
+ 
+#Hands = {"Name": "",  "Jobs":[]}
+Sheikh_Gages = {"Name": "Sheikh Gages", "DEF":20, "HP":20, "MP":14, "CHR":6, "Song Recast Delay":-4, "Gear Haste":3, "Store TP":2, "Sword Skill":8, "Jobs":["brd"]}
+Stout_Wristbands = {"Name": "Stout Wristbands", "DEF":15, "HP":14, "MP":14, "Accuracy":5, "Evasion":5, "Enmity":-2, "DEX":8, "Attack":8, "Conserve TP":8, "Pet Regen":2, "Jobs":["bst"]}
+Genie_Manillas = {"Name": "Genie Manillas", "DEF":12, "Magic Attack Bonus":3, "Elemental Magic Skill":6, "INT":8, "Magic Crit Rate":8, "Conserve MP":6, "Occult Acumen":30, "Jobs":["blm"]}
+Onyx_Gadlings = {"Name": "Onyx Gadlings", "DEF":16, "STR":5, "Attack":15, "DT":7, "Absorb Duration":10, "Conserve TP":5, "Greatsword Skill":5, "Skillchain Damage":3, "Jobs":["drk"]}
+Dragon_Finger_Gauntlets1 = {"Name": "Dragon Finger Gauntlets +1", "DEF":16, "HP":10, "Lightning Elemental Resistance":12, "Water Elemental Resistance":12, "BDT":-5, "MP":40, "Gear Haste":4, "Gilfinder":2, "Jobs":["drg"]}
+Yasha_Tekko1 = {"Name": "Yasha Tekko +1", "DEF":17, "Parrying Skill":8, "Spell Interrupt Down":4, "Enmity":3, "INT":8, "Ninjutsu Skill":8, "Gear Haste":3, "Magic Burst Bonus":6, "Jobs":["nin"]}
+Kings_Gauntlets = {"Name": "Kings Gauntlets", "DEF":19, "HP":40, "VIT":11, "Light Elemental Resistance":3, "Dark Elemental Resistance":3, "Enmity":3, "Regen":3, "PDT":-3, "Jobs":["pld"]}
+Wise_Gloves1 = {"Name": "Wise Gloves +1", "DEF":17, "MND":5, "Accuracy":4, "Ranged Accuracy":3, "Enmity":-3, "STR":5, "INT":5, "Sword Skill":6, "Conserve TP":8, "Gear Haste":3, "Jobs":["rdm"]}
+Hachiman_Kote1 = {"Name": "Hachiman Kote +1", "DEF":20, "STR":5, "Store TP":9, "Attack":10, "Weapon Skill Accuracy":8, "Magic Attack Bonus":8, "TP Bonus":100, "Jobs":["sam"]}
+Dragon_Mittens1 = {"Name": "Dragon Mittens +1", "DEF":17, "AGI":5, "Attack":11, "Subtle Blow":3, "Enmity":3, "DEX":8, "Magic Evasion":6, "Gear Haste":3, "Jobs":["thf"]}
+Unicorn_Mittens1 = {"Name": "Unicorn Mittens +1", "DEF":28, "HP":54, "Attack":9, "Ranged Attack":9, "Gear Haste":3, "MDT":-4, "Jobs":["war"]}
+ 
+#Legs = {"Name": "",  "Jobs":[]}
+Sheikh_Seraweels = {"Name": "Sheikh Seraweels", "DEF":38, "HPP":3, "MPP":2, "CHR":9, "HP":25, "Gear Haste":5, "Subtle Blow":4, "PDT":-4, "Jobs":["brd"]}
+Stout_Kecks = {"Name": "Stout Kecks", "DEF":31, "HP":16, "MP":16, "Enmity":-5, "DT":-3, "Pet Accuracy":12, "Pet Attack":12, "Pet Enmity":5, "Refresh":1, "Jobs":["bst"]}
+Genie_Lappas = {"Name": "Genie Lappas", "DEF":31, "Evasion":11, "Enfeebling Magic Skill":11, "Magic Accuracy":5, "Staff Skill":15, "Gear Haste":5, "Enfeebling Magic Duration":10, "Jobs":["blm"]}
+Onyx_Cuisses = {"Name": "Onyx Cuisses", "DEF":30, "STR":5, "Attack":16, "DT":14, "Absorb Duration":10, "INT":4, "Magic Attack Bonus":8, "Scythe Skill":8, "Skillchain Damage":3, "Jobs":["drk"]}
+Dragon_Cuisses1 = {"Name": "Dragon Cuisses +1", "DEF":32, "HP":13, "Fire Elemental Resistance":12, "Ice Elemental Resistance":12, "BDT":-5, "MP":50, "Gear Haste":4, "Conserve MP":3, "Jobs":["drg"]}
+Yasha_Hakama1 = {"Name": "Yasha Hakama +1", "DEF":32, "HP":30, "INT":11, "Spell Interrupt Down":-3, "Enmity":6, "Magic Attack Bonus":5, "Gear Haste":4, "Jobs":["nin"]}
+Kings_Cuisses = {"Name": "Kings Cuisses", "DEF":49, "HP":42, "VIT":11, "Light Elemental Resistance":3, "Dark Elemental Resistance":3, "Enmity":3, "Phalanx Received":3, "Jobs":["pld"]}
+Wise_Braconi1 = {"Name": "Wise Braconi +1", "DEF":33, "MP":20, "Accuracy":10, "Magic Accuracy":3, "Enmity":-5, "Attack":8, "Store TP":5, "Subtle Blow":5, "Gear Haste":5, "Magic Evasion":5, "Jobs":["rdm"]}
+Hachiman_Hakama1 = {"Name": "Hachiman Hakama +1", "DEF":37, "Store TP":4, "Weapon Skill Accuracy":7, "STR":6, "AGI":6, "Ranged Attack":8, "Snapshot":4, "Jobs":["sam"]}
+Dragon_Subligar1 = {"Name": "Dragon Subligar +1", "DEF":33, "DEX":5, "Subtle Blow":6, "BDT":-4, "Enmity":3, "Attack":10, "Evasion":8, "Gear Haste":3, "Waltz Potency":5, "Jobs":["thf"]}
+Unicorn_Subligar1 = {"Name": "Unicorn Subligar +1", "DEF":51, "HP":74, "DEX":5, "Accuracy":5, "Gear Haste":4, "MDT":-4, "Jobs":["war"]}
+ 
+#Feet = {"Name": "",  "Jobs":[]}
+Sheikh_Crackows = {"Name": "Sheikh Crackows", "DEF":19, "HP":20, "MP":12, "CHR":5, "Gear Haste":2, "Accuracy":5, "Spell Interrupt Down":10, "Jobs":["brd"]}
+Stout_Gamashes = {"Name": "Stout Gamashes", "DEF":15, "HP":28, "MP":28, "Accuracy":6, "Attack":6, "Enmity":-2, "Counter":4, "Gear Haste":3, "Pet MDT":-3, "Jobs":["bst"]}
+Genie_Huaraches = {"Name": "Genie Huaraches", "DEF":16, "Enhancing Magic Skill":9, "Dark Magic Skill":5, "Enmity":3, "Conserve MP":5, "MND":8, "Enhancing Magic Skill":6, "Dark Magic Skill":10, "Drain Aspir":6, "Jobs":["blm"]}
+Onyx_Sollerets = {"Name": "Onyx Sollerets", "DEF":14, "STR":4, "Attack":15, "DT":9, "Absorb Duration":10, "INT":6, "Scythe Skill":5, "Conserve TP":4, "Jobs":["drk"]}
+Dragon_Greaves1 = {"Name": "Dragon Greaves +1", "DEF":14, "HP":11, "Wind Elemental Resistance":12, "Earth Elemental Resistance":12, "BDT":-5, "MP":40, "Gear Haste":3, "Counter":4, "Jobs":["drg"]}
+Yasha_SuneAte1 = {"Name": "Yasha Sune-Ate +1", "DEF":14, "HP":12, "INT":4, "Spell Interrupt Down":12, "Enmity":3, "Evasion":8, "Gear Haste":3, "MDT":-4, "Jobs":["nin"]}
+Kings_Sabatons = {"Name": "Kings Sabatons", "DEF":25, "HP":30, "VIT":10, "CHR":2, "Light Elemental Resistance":3, "Dark Elemental Resistance":3, "HMP":4, "Cure Spellcasting Time":-6, "Jobs":["pld"]}
+Wise_Pigaches1 = {"Name": "Wise Pigaches +1", "DEF":15, "INT":5, "Accuracy":3, "Ranged Accuracy":4, "Enmity":-2, "STR":5, "AGI":5, "Archery Skill":15, "Store TP":4, "Phalanx":2, "Jobs":["rdm"]}
+Hachiman_SuneAte1 = {"Name": "Hachiman Sune-Ate +1", "DEF":18, "STR":7, "Store TP":6, "Weapon Skill Accuracy":3, "AGI":8, "Archery Skill":6, "Polearm Skill":10, "Jobs":["sam"]}
+Dragon_Leggings1 = {"Name": "Dragon Leggings +1", "DEF":15, "DEX":4, "AGI":4, "Attack":11, "Enmity":2, "Accuracy":8, "Subtle Blow":6, "Crit Rate":3, "Jobs":["thf"]}
+Unicorn_Leggings1 = {"Name": "Unicorn Leggings +1", "DEF":26, "HP":54, "STR":4, "MDT":-4, "Counter":4, "Jobs":["war"]}
